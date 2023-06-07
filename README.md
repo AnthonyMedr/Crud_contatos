@@ -1,3 +1,5 @@
+(Leia se veio pelo github)
+
 Instalar as dependências do nodejs
 npm install
 
